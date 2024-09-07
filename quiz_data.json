@@ -1,0 +1,55 @@
+{
+    "questions":[
+        {
+            "id": 1, 
+            "question": "what is the capital of France?",
+            "options": ["A)Paris", "B)London", "C)Berlin", "D)Madrid"]
+        },
+        {
+            "id": 2, 
+            "question": "what is the largest planet on our solar system?",
+            "options": ["A)Earth", "B)Saturn", "C)Jupiter", "D)Mars"]
+        },
+        {
+            "id": 3, 
+            "question": "which element has the chemical symbol 'O'?",
+            "options": ["A)Gold", "B)Oxygen", "C)Iron", "D)Silver"]
+        },
+        {
+            "id": 4, 
+            "question": "who wrote 'To kill a mockingbird'?",
+            "options": ["A)Harper lee", "B)Mark Twain", "C)J.K Rowling"]
+        },
+        {
+            "id": 5, 
+            "question": "what is the smallest ocean in the world?",
+            "options": ["A)Paciic ocean", "B)Artic Ocean", "C)Atlantic Ocean", "Indiana ocean"]
+        },
+        {
+            "id": 6, 
+            "question": "what is the square root of 144?",
+            "options": ["A)10", "B)11", "C)12", "D)13"]
+        },
+        {
+            "id": 7, 
+            "question": "what planet is known as the red planet?",
+            "options": ["A)Mars", "B)Venus", "C)Uranus", "D)Neptune"]
+        },
+        {
+            "id": 8, 
+            "question": "What is the currrency of Japan",
+            "options": ["A)Yen", "B)Dollar", "C)Naira", "D)Rand"]
+        },
+        {
+            "id": 9, 
+            "question": "who are the Champions league defending champions?",
+            "options": ["A)Man city", "B)Barcelona", "C)Real Madrid", "D)Bayern Munic"]
+        },
+        {
+            "id": 10, 
+            "question": "what gas do plants absorb from the atmosphere?",
+            "options": ["A)Carbon Dioxide", "B)Oxygen", "C)Nitrogen", "D)Hydrogen"]
+        }
+    ]
+}
+
